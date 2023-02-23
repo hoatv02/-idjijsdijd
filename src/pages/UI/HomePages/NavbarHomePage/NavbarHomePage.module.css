@@ -1,0 +1,15 @@
+.titleHomePage {
+  font-size: 20px;
+  color: #bd2525;
+}
+
+.containerHome {
+  background-color: #7F7F7F;
+  /* height: 100vh; */
+}
+
+.layoutHome {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 10px;
+}
